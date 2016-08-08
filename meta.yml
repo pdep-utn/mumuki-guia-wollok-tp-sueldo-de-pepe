@@ -1,0 +1,9 @@
+---
+name: TP Sueldo de Pepe
+locale: es
+type: practice
+beta: false
+teacher_info: Sin colecciones - Con tests!
+language: wollok
+id_format: '%05d'
+order: []
