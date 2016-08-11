@@ -18,3 +18,5 @@ Hay tres posibilidades para el **bono por resultados**:
 **Antes** de subir el TP, **Hagan los tests que se piden en el ejercicio 2**
 
 _Acá aparecen un montón de objetos, piensen bien a qué objeto le piden cada cosa que hay que saber para poder llegar al sueldo de pepe._
+
+> Subir el archivo **.wlk** que tiene los objetos correspondientes. 
