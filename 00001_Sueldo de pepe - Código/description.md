@@ -6,7 +6,7 @@ El **neto** depende de la categoría, hay varias categorías. Por ejemplo, los g
 
 Hay dos **bonos por presentismo**:
 * en uno es $100 pesos si la persona a quien se aplica no faltó nunca, $50 si faltó un día, $0 en cualquier otro caso;
-* En el otro siempre es $0, independientemente de las faltas.
+* hay otro tipo de bono por presentismo que siempre es $0, independientemente de las faltas.
 
 _Nota: sólo para distinguir el monto del bono por presentismo (si es $100, $50 ó $0) se puede usar `if` y sus derivados. En el resto del ejercicio no se puede._
 
